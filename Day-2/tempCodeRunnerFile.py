@@ -1,0 +1,1 @@
+print(f"You have {days} days,{weeks} weeks,{months} months left")
