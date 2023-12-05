@@ -21,9 +21,9 @@ love=l+o+v+e
 score=int(str(true)+str(love))
 print(score)
 
-if(score<10 or score>90):
-    
-elif(score>=40 and score<=50):
-
+if(score<10 or  score>90):
+    print(f"your Score is {score} and you are like coke and mentos")
+elif(score>=40 and score<=50 ):
+    print(f"your Score is {score} and you are fine")
 else:
-    
+    print(f"your Score is {score}")
