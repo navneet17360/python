@@ -3,8 +3,7 @@
 # scissors win against 
 # paper wins against rock
 
-
-
+#ascii art
 
 rock = '''
     _______
